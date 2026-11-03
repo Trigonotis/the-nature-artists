@@ -1,0 +1,644 @@
+{
+  "schema_version": 1,
+  "project": "Nature Artist Site — source materials",
+  "created_at": "2026-11-03",
+  "language": [
+    "zh-CN",
+    "en"
+  ],
+  "scope_note": "10个主艺术家条目、12件／组作品；合作项目另记全部已核实的关键合作者。本清单是定性选材，不是知名度排名。中文作品名多为工作译名，以英文原名校对。",
+  "text_note": "简介为依据所列来源撰写的原创概述，不是官网原文或经授权的全文翻译；策划建议属于编者判断。",
+  "image_note": "15张作品参考图，逐张保留源页面、图片URL、署名、访问日期和校验值；下载成功不代表已取得公开发布许可。",
+  "artists": [
+    {
+      "id": "agnes-denes",
+      "name_en": "Agnes Denes",
+      "name_zh": "阿格尼丝·德内斯",
+      "bio_zh": "将观念艺术、种植与土地修复结合，追问土地价值及代际责任。",
+      "bio_en": "Combines conceptual art, planting, and land reclamation to examine land value and responsibility across generations.",
+      "source_ids": [
+        "S01",
+        "S02",
+        "S22"
+      ]
+    },
+    {
+      "id": "joseph-beuys",
+      "name_en": "Joseph Beuys",
+      "name_zh": "约瑟夫·博伊斯",
+      "bio_zh": "以 social sculpture（社会雕塑）把公众参与、城市植树与社会改变纳入艺术。",
+      "bio_en": "Expanded art through social sculpture, public participation, and collective environmental action.",
+      "source_ids": [
+        "S03",
+        "S04"
+      ]
+    },
+    {
+      "id": "mel-chin",
+      "name_en": "Mel Chin",
+      "name_zh": "梅尔·钦",
+      "bio_zh": "与科学家合作，将环境污染问题转化为现场实验和公共艺术。",
+      "bio_en": "Works across art and science to address pollution through field experiments and public engagement.",
+      "source_ids": [
+        "S05",
+        "S06"
+      ]
+    },
+    {
+      "id": "mierle-laderman-ukeles",
+      "name_en": "Mierle Laderman Ukeles",
+      "name_zh": "米尔勒·拉德曼·尤克里斯",
+      "bio_zh": "以 maintenance art（维护艺术）让清洁、照料和城市维护劳动进入公共视野。",
+      "bio_en": "Uses maintenance art to make care, sanitation, and the labor sustaining cities visible.",
+      "source_ids": [
+        "S07",
+        "S08"
+      ]
+    },
+    {
+      "id": "olafur-eliasson",
+      "name_en": "Olafur Eliasson",
+      "name_zh": "奥拉维尔·埃利亚松",
+      "bio_zh": "通过冰、水、光等材料，让观众身体感知环境现象；本次重点选取其气候议题作品。",
+      "bio_en": "Creates sensory encounters with environmental phenomena; this selection focuses on his climate-related work.",
+      "source_ids": [
+        "S09"
+      ]
+    },
+    {
+      "id": "maya-lin",
+      "name_en": "Maya Lin",
+      "name_zh": "林璎",
+      "bio_zh": "在纪念性艺术与环境装置之间工作，关注物种、栖息地和生态记忆。",
+      "bio_en": "Connects memorials and environmental installations with species, habitats, and ecological memory.",
+      "source_ids": [
+        "S10",
+        "S12",
+        "S14"
+      ]
+    },
+    {
+      "id": "chris-jordan",
+      "name_en": "Chris Jordan",
+      "name_zh": "克里斯·乔丹",
+      "bio_zh": "通过摄影揭示消费废弃物与非人类生命之间的关系。",
+      "bio_en": "Uses photography to reveal connections between consumer waste and nonhuman life.",
+      "source_ids": [
+        "S15"
+      ]
+    },
+    {
+      "id": "benjamin-von-wong",
+      "name_en": "Benjamin Von Wong",
+      "name_zh": "本杰明·冯·王（常用署名 Von Wong）",
+      "bio_zh": "以大型装置和摄影传播环境议题，常与志愿者及跨领域伙伴合作。",
+      "bio_en": "Creates large installations and photographs with collaborators to communicate environmental issues.",
+      "source_ids": [
+        "S16"
+      ]
+    },
+    {
+      "id": "patricia-johanson",
+      "name_en": "Patricia Johanson",
+      "name_zh": "帕特里夏·约翰逊",
+      "bio_zh": "把公共雕塑、动物栖息地与城市基础设施设计在同一空间中。",
+      "bio_en": "Integrates public sculpture, wildlife habitat, and urban infrastructure within shared spaces.",
+      "source_ids": [
+        "S18",
+        "S19"
+      ]
+    },
+    {
+      "id": "wang-jiuliang",
+      "name_en": "Wang Jiuliang",
+      "name_zh": "王久良",
+      "bio_zh": "通过纪实摄影和纪录片调查城市消费、垃圾处理与周边居民的生活。",
+      "bio_en": "Investigates urban consumption, waste disposal, and surrounding communities through photography and documentary film.",
+      "source_ids": [
+        "S20",
+        "S21"
+      ]
+    }
+  ],
+  "works": [
+    {
+      "id": "wheatfield",
+      "artist_id": "agnes-denes",
+      "title_en": "Wheatfield—A Confrontation",
+      "title_zh": "麦田——对抗",
+      "year": "1982",
+      "location": "Battery Park landfill, Manhattan, New York, USA",
+      "medium": "种植、场地介入与摄影记录 / planting, site intervention, photographic documentation",
+      "category": "土地使用与粮食",
+      "tags": [
+        "land-use",
+        "food",
+        "urbanism"
+      ],
+      "summary_zh": "在曼哈顿金融区附近的填埋土地上种植并收获小麦。麦田与城市楼群的并置，使粮食、土地价值和资源分配之间的冲突变得直观。",
+      "summary_en": "A wheatfield planted and harvested near Manhattan’s financial district placed food production beside urban development, questioning land value and environmental priorities.",
+      "ecological_relation": "环境议题与土地价值反思",
+      "source_ids": [
+        "S01",
+        "S22"
+      ],
+      "image_ids": [
+        "wheatfield-01",
+        "wheatfield-02"
+      ],
+      "use_zh": "适合首页主视觉或“土地与城市”专题。",
+      "notes_zh": "同一委托方页面同时出现 1.5 acres 与 2 acres 两种面积，短文不采用面积数字。中文作品名为工作译名。"
+    },
+    {
+      "id": "tree-mountain",
+      "artist_id": "agnes-denes",
+      "title_en": "Tree Mountain—A Living Time Capsule—11,000 Trees, 11,000 People, 400 Years",
+      "title_zh": "树山——活的时间胶囊",
+      "year": "1992–1996；长期项目",
+      "location": "Pinsiö, Ylöjärvi, Finland",
+      "medium": "大地工程、植树与土地修复 / earthwork, tree planting, land reclamation",
+      "category": "生态修复",
+      "tags": [
+        "reforestation",
+        "restoration",
+        "long-term-care"
+      ],
+      "summary_zh": "在芬兰采砂石场修复项目中，以数学图式组织一万一千棵树的种植。项目把土地修复与四百年的长期照护设想联系起来。",
+      "summary_en": "Eleven thousand trees arranged in a mathematical pattern turn a former gravel extraction site into a long-term project of land reclamation and ecological care.",
+      "ecological_relation": "土地修复与长期植林",
+      "source_ids": [
+        "S02",
+        "S22"
+      ],
+      "image_ids": [
+        "tree-mountain-01"
+      ],
+      "use_zh": "适合呈现生态修复和时间尺度；所存图片包含实景与图式。",
+      "notes_zh": "400 年是项目的保护及维护设想，不能写成已经验证的长期结果。保存的是官网三联构图，保留完整画面。"
+    },
+    {
+      "id": "7000-oaks",
+      "artist_id": "joseph-beuys",
+      "title_en": "7000 Eichen (7000 Oaks)",
+      "title_zh": "7000棵橡树",
+      "year": "1982–1987（卡塞尔原始实施）；此后延展",
+      "location": "Kassel, Germany；later extended to New York",
+      "medium": "城市植树、玄武岩石柱与公众参与 / urban planting, basalt markers, public participation",
+      "category": "城市生态与公众参与",
+      "tags": [
+        "urban-ecology",
+        "participation",
+        "social-sculpture"
+      ],
+      "summary_zh": "在卡塞尔种植七千棵树，每棵树旁设置一根玄武岩石柱。城市绿化和公众协作成为持续生长的“社会雕塑”。",
+      "summary_en": "Seven thousand trees, each paired with a basalt marker, transformed Kassel through collective planting and a growing form of social sculpture.",
+      "ecological_relation": "实际植树与城市生态介入",
+      "source_ids": [
+        "S03",
+        "S04"
+      ],
+      "image_ids": [
+        "7000-oaks-01"
+      ],
+      "use_zh": "适合“艺术如何改变城市”及公众参与案例。",
+      "notes_zh": "作品虽然名为橡树，实际包含其他树种；不可写成七千棵全部是橡树。保存图片为后来的现场景观，不能标为1982年摄。"
+    },
+    {
+      "id": "revival-field",
+      "artist_id": "mel-chin",
+      "title_en": "Revival Field",
+      "title_zh": "复苏之地",
+      "year": "1991起",
+      "location": "Initial field: Pig’s Eye Landfill, St. Paul, Minnesota, USA",
+      "medium": "植物、围栏、受污染土地与科学实验 / plants, fencing, contaminated soil, scientific experiment",
+      "category": "生态修复",
+      "tags": [
+        "soil",
+        "heavy-metals",
+        "phytoremediation"
+      ],
+      "summary_zh": "Mel Chin 与科学家 Rufus Chaney 合作，在受污染土地上测试能够积累重金属的植物。艺术的对象从雕塑外形扩展到土壤中看不见的变化。",
+      "summary_en": "Working with scientist Rufus Chaney, Chin tested metal-accumulating plants on contaminated land, treating ecological change as a sculptural process.",
+      "ecological_relation": "植物修复（phytoremediation）现场试验",
+      "source_ids": [
+        "S05",
+        "S06"
+      ],
+      "image_ids": [
+        "revival-field-01"
+      ],
+      "use_zh": "适合“艺术与科学”“修复土壤”栏目。",
+      "notes_zh": "官网项目页以1991为起点，简介另提1989年的早期构思。本清单采用实施年份。实验支持植物吸收某些金属的潜力，不代表整个场地已完全修复。"
+    },
+    {
+      "id": "touch-sanitation",
+      "artist_id": "mierle-laderman-ukeles",
+      "title_en": "Touch Sanitation Performance",
+      "title_zh": "触摸环卫",
+      "year": "1979–1980",
+      "location": "New York City, USA",
+      "medium": "行为艺术、对话与摄影记录 / performance, dialogue, photographic documentation",
+      "category": "维护劳动与城市可持续性",
+      "tags": [
+        "maintenance",
+        "care",
+        "sanitation",
+        "environmental-justice"
+      ],
+      "summary_zh": "艺术家走访纽约各环卫分区，与约八千五百名环卫人员握手并致谢。作品让城市赖以运转的维护劳动获得可见性，也把环保与劳动尊严联系起来。",
+      "summary_en": "Ukeles shook hands with roughly 8,500 sanitation workers across New York, honoring the often invisible maintenance labor that keeps a city functioning.",
+      "ecological_relation": "社会生态与维护伦理",
+      "source_ids": [
+        "S07",
+        "S08"
+      ],
+      "image_ids": [
+        "touch-sanitation-01"
+      ],
+      "use_zh": "适合补充“环保由谁完成”的人文视角。",
+      "notes_zh": "属于维护艺术与社会生态语境；不是植被恢复项目。图像来源使用艺术家在 WEAD 的自述，Queens Museum 用作事实交叉核对。"
+    },
+    {
+      "id": "ice-watch",
+      "artist_id": "olafur-eliasson",
+      "collaborators": [
+        "Minik Rosing（地质学家，联合创作者）"
+      ],
+      "title_en": "Ice Watch",
+      "title_zh": "冰之守望",
+      "year": "2014；2015、2018–2019另有展出",
+      "location": "Copenhagen, Denmark; Paris, France; London, UK",
+      "medium": "冰川冰、公共空间与融化过程 / glacial ice, public space, melting process",
+      "category": "气候变化",
+      "tags": [
+        "climate",
+        "ice",
+        "sensory-experience"
+      ],
+      "summary_zh": "Olafur Eliasson 与 Minik Rosing 把已脱离格陵兰冰盖的冰块带入城市公共空间。人们能够接近、触摸并见证它们融化，把遥远的气候变化转化为身体经验。",
+      "summary_en": "Eliasson and Minik Rosing brought detached Greenlandic glacial ice into public spaces, allowing visitors to experience melting ice at close range.",
+      "ecological_relation": "气候意识与感官体验",
+      "source_ids": [
+        "S09"
+      ],
+      "image_ids": [
+        "ice-watch-01"
+      ],
+      "use_zh": "适合气候主题页或“感受变化”栏目。",
+      "notes_zh": "必须保留共同作者 Minik Rosing。项目起始年2014与本图拍摄年2018须分开记录。初版12块冰的配置不可直接套用于所有城市版本。"
+    },
+    {
+      "id": "what-is-missing",
+      "artist_id": "maya-lin",
+      "title_en": "What Is Missing?",
+      "title_zh": "什么正在消失？",
+      "year": "2009起；持续发展",
+      "location": "Multiple sites and online; pictured: California Academy of Sciences, San Francisco, USA",
+      "medium": "数字平台、声音、影像与实体装置 / online platform, sound, video, physical installations",
+      "category": "生物多样性与生态记忆",
+      "tags": [
+        "biodiversity",
+        "extinction",
+        "memory",
+        "digital-art"
+      ],
+      "summary_zh": "一个分布于线上和多个实体地点的环境纪念项目，通过声音、影像与记忆记录物种和栖息地的消失，也呈现保护行动。所存图片是其2009年的实体组成部分 The Listening Cone。",
+      "summary_en": "A multi-sited environmental memorial uses sound, film, and shared memories to address habitat and species loss. The selected photograph shows its 2009 Listening Cone component.",
+      "ecological_relation": "生态记忆、环境教育与倡议",
+      "source_ids": [
+        "S10",
+        "S11",
+        "S12"
+      ],
+      "image_ids": [
+        "what-is-missing-01"
+      ],
+      "use_zh": "适合网站的信息组织参考：地图、声音和公众记忆。",
+      "notes_zh": "The Listening Cone 是项目组成部分，不等于整个 What Is Missing? 项目。官网早期介绍含旧域名，当前项目入口见 S12。"
+    },
+    {
+      "id": "ghost-forest",
+      "artist_id": "maya-lin",
+      "title_en": "Ghost Forest",
+      "title_zh": "幽灵森林",
+      "year": "2021；展期2021-05-10至2021-11-14",
+      "location": "Madison Square Park, New York, USA",
+      "medium": "49棵大西洋白雪松枯树及相关声音项目 / 49 dead Atlantic white cedar trees and associated sound work",
+      "category": "气候变化",
+      "tags": [
+        "climate",
+        "forest",
+        "saltwater-intrusion"
+      ],
+      "summary_zh": "49棵枯死的大西洋白雪松被置入曼哈顿公园，与周围活树形成对照。作品借“幽灵森林”这一现象，让气候变化与海水入侵造成的生态损失进入日常城市空间。",
+      "summary_en": "Forty-nine dead Atlantic white cedars stood among living park trees, bringing the ecological losses associated with climate change and saltwater intrusion into urban experience.",
+      "ecological_relation": "气候变化与森林损失的公共表达",
+      "source_ids": [
+        "S13",
+        "S14"
+      ],
+      "image_ids": [
+        "ghost-forest-01"
+      ],
+      "use_zh": "适合气候主题大图与安静、沉浸的页面风格。",
+      "notes_zh": "委托方说明这些树原本即计划在新泽西 Pine Barrens 的生态更新中清除，不要写成艺术家为展览砍伐健康森林。"
+    },
+    {
+      "id": "midway",
+      "artist_id": "chris-jordan",
+      "title_en": "Midway (selected photograph: CF000313)",
+      "title_zh": "中途岛系列（选图 CF000313）",
+      "year": "2009（所存照片）",
+      "location": "Midway Island, North Pacific",
+      "medium": "摄影 / photography",
+      "category": "塑料污染",
+      "tags": [
+        "plastic",
+        "ocean",
+        "wildlife",
+        "photography"
+      ],
+      "summary_zh": "照片记录中途岛一只莱桑信天翁幼鸟遗体中的塑料。艺术家原始图注明确指出胃中内容物未被改动，画面把消费废弃物与野生动物联系起来。",
+      "summary_en": "The photograph records plastic inside a dead Laysan albatross fledgling on Midway. Jordan’s caption states that the stomach contents were unaltered.",
+      "ecological_relation": "以摄影呈现消费废弃物与野生动物的关系",
+      "source_ids": [
+        "S15"
+      ],
+      "image_ids": [
+        "midway-01"
+      ],
+      "use_zh": "适合污染专题详情页；图像涉及动物死亡，首页选用需考虑观众感受。",
+      "notes_zh": "不能仅凭单张照片推断鸟的唯一死亡原因。保留选图编号 CF000313；不要把后来的电影 Albatross 与这张2009年照片混为一件作品。"
+    },
+    {
+      "id": "plastikophobia",
+      "artist_id": "benjamin-von-wong",
+      "collaborators": [
+        "Joshua Goh（联合装置创作者）",
+        "Laura Francois（社会影响策略）",
+        "志愿者团队"
+      ],
+      "title_en": "Plastikophobia",
+      "title_zh": "塑料恐惧",
+      "year": "2019",
+      "location": "Sustainable Singapore Gallery, Marina Barrage, Singapore",
+      "medium": "18000个用过的塑料杯、灯光、装置与摄影 / 18,000 used plastic cups, lighting, installation, photography",
+      "category": "塑料污染",
+      "tags": [
+        "plastic",
+        "reuse",
+        "immersive",
+        "participation"
+      ],
+      "summary_zh": "由用过的一次性塑料杯搭建发光洞穴，通过装置及精心设计的摄影吸引观众关注塑料消费。项目把志愿者协作和环境传播结合起来。",
+      "summary_en": "A glowing cave assembled from used plastic cups turns an immersive installation and staged photographs into a public conversation about disposable plastics.",
+      "ecological_relation": "废弃物再利用与环境传播",
+      "source_ids": [
+        "S16",
+        "S17"
+      ],
+      "image_ids": [
+        "plastikophobia-01",
+        "plastikophobia-02"
+      ],
+      "use_zh": "视觉冲击强，适合主题入口；先核对站点用途是否符合图片条款。",
+      "notes_zh": "保留联合创作者与策略伙伴；塑料杯不是塑料瓶。本组为摆拍摄影，不能作为未加安排的污染现场照。条款仅允许符合条件的个人、非商业在线使用，并禁止转授及第三方分发。"
+    },
+    {
+      "id": "fair-park-lagoon",
+      "artist_id": "patricia-johanson",
+      "title_en": "Fair Park Lagoon",
+      "title_zh": "费尔公园潟湖",
+      "year": "1981–1986",
+      "location": "Dallas, Texas, USA",
+      "medium": "景观、雕塑步道、本地植物与栖息地 / landscape, sculptural paths, native planting, habitat",
+      "category": "生态修复",
+      "tags": [
+        "water",
+        "habitat",
+        "infrastructure",
+        "public-space"
+      ],
+      "summary_zh": "以植物形态的雕塑步道介入退化水体，同时考虑岸线侵蚀、动物栖息地与公众通行。艺术、生态功能和城市基础设施共同构成作品。",
+      "summary_en": "Plant-shaped sculptural paths address an impaired urban lagoon while providing public access, erosion control, and habitats for wildlife.",
+      "ecological_relation": "水体与栖息地修复、基础设施整合",
+      "source_ids": [
+        "S18",
+        "S19"
+      ],
+      "image_ids": [
+        "fair-park-lagoon-01"
+      ],
+      "use_zh": "适合“艺术作为生态基础设施”核心案例。",
+      "notes_zh": "来源描述的是项目实施后的生态表现，不应直接写成截至2026年的水质监测结论。"
+    },
+    {
+      "id": "beijing-besieged",
+      "artist_id": "wang-jiuliang",
+      "title_en": "Beijing Besieged by Waste",
+      "title_zh": "垃圾围城",
+      "year": "2008–2011（摄影与影像实践）；纪录片版权年2011",
+      "location": "Beijing and surrounding landfill sites, China",
+      "medium": "纪实摄影与纪录片 / documentary photography and film",
+      "category": "垃圾、消费与环境正义",
+      "tags": [
+        "waste",
+        "consumption",
+        "documentary",
+        "environmental-justice",
+        "China"
+      ],
+      "summary_zh": "通过北京周边垃圾场的影像调查，将城市消费与被忽视的垃圾处理空间联系起来。作品同时关注污染景观以及在其中生活和工作的拾荒者。",
+      "summary_en": "Photographs and documentary film connect Beijing’s consumption with surrounding waste sites and the people who live and work within them.",
+      "ecological_relation": "环境纪实与社会生态批判",
+      "source_ids": [
+        "S20",
+        "S21"
+      ],
+      "image_ids": [
+        "beijing-besieged-01",
+        "beijing-besieged-02"
+      ],
+      "use_zh": "适合中国案例、环境纪实与消费系统专题。",
+      "notes_zh": "所存两张图片来自影片发行方，标注为影片宣传图／剧照，不能当作已核实单幅题名的摄影版次作品。2012为发行方所列发行年，2011为版权年。第二张仅250×141像素。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Wheatfields for Manhattan",
+      "publisher": "Public Art Fund",
+      "url": "https://www.publicartfund.org/exhibitions/view/wheatfields-for-manhattan/",
+      "source_type": "commissioning_organization",
+      "accessed_at": "2026-11-03"
+    },
+    {
+      "id": "S02",
+      "title": "Tree Mountain—A Living Time Capsule",
+      "publisher": "Agnes Denes Studio",
+      "url": "http://www.agnesdenesstudio.com/works4.html",
+      "source_type": "artist_studio",
+      "accessed_at": "2026-11-03"
+    },
+    {
+      "id": "S03",
+      "title": "Joseph Beuys, 7000 Oaks",
+      "publisher": "Dia Art Foundation",
+      "url": "https://www.diaart.org/exhibition/exhibitions-projects/joseph-beuys-7000-oaks-site",
+      "source_type": "art_institution",
+      "accessed_at": "2026-11-03"
+    },
+    {
+      "id": "S04",
+      "title": "7000 Eichen",
+      "publisher": "Stadt Kassel",
+      "url": "https://www.kassel.de/buerger/kunst_und_kultur/eichen-von-joseph-beuys.php",
+      "source_type": "municipal_artwork_record",
+      "accessed_at": "2026-11-03"
+    },
+    {
+      "id": "S05",
+      "title": "Revival Field",
+      "publisher": "Mel Chin",
+      "url": "https://melchin.org/revival-field/",
+      "source_type": "artist_studio",
+      "accessed_at": "2026-11-03"
+    },
+    {
+      "id": "S06",
+      "title": "“Revival Field” — interview",
+      "publisher": "Art21",
+      "url": "https://art21.org/read/mel-chin-revival-field/",
+      "source_type": "artist_interview",
+      "accessed_at": "2026-11-03"
+    },
+    {
+      "id": "S07",
+      "title": "Maintenance Art",
+      "publisher": "Queens Museum",
+      "url": "https://queensmuseum.org/exhibition/mierle-laderman-ukeles-maintenance-art/",
+      "source_type": "museum",
+      "accessed_at": "2026-11-03"
+    },
+    {
+      "id": "S08",
+      "title": "Touch Sanitation",
+      "publisher": "Women Eco Artists Dialog",
+      "url": "https://weadartists.org/touch-sanitation/",
+      "source_type": "artist_account",
+      "accessed_at": "2026-11-03"
+    },
+    {
+      "id": "S09",
+      "title": "Ice Watch, 2014",
+      "publisher": "Studio Olafur Eliasson",
+      "url": "https://olafureliasson.net/artwork/ice-watch-2014/",
+      "source_type": "artist_studio",
+      "accessed_at": "2026-11-03"
+    },
+    {
+      "id": "S10",
+      "title": "What Is Missing?",
+      "publisher": "Maya Lin Studio",
+      "url": "https://www.mayalinstudio.com/memory-works/what-is-missing",
+      "source_type": "artist_studio",
+      "accessed_at": "2026-11-03"
+    },
+    {
+      "id": "S11",
+      "title": "The Listening Cone",
+      "publisher": "Maya Lin Studio",
+      "url": "https://www.mayalinstudio.com/memory-works/the-listening-cone",
+      "source_type": "artist_studio",
+      "accessed_at": "2026-11-03"
+    },
+    {
+      "id": "S12",
+      "title": "About the Project",
+      "publisher": "What Is Missing?",
+      "url": "https://www.whatismissing.org/about",
+      "source_type": "project_official",
+      "accessed_at": "2026-11-03"
+    },
+    {
+      "id": "S13",
+      "title": "Ghost Forest",
+      "publisher": "Maya Lin Studio",
+      "url": "https://www.mayalinstudio.com/art/ghost-forest",
+      "source_type": "artist_studio",
+      "accessed_at": "2026-11-03"
+    },
+    {
+      "id": "S14",
+      "title": "Maya Lin: Ghost Forest",
+      "publisher": "Madison Square Park Conservancy",
+      "url": "https://madisonsquarepark.org/art/exhibitions/maya-lin-ghost-forest/",
+      "source_type": "commissioning_organization",
+      "accessed_at": "2026-11-03"
+    },
+    {
+      "id": "S15",
+      "title": "Photo of an albatross filled with plastic on Midway Island",
+      "publisher": "Chris Jordan",
+      "url": "https://www.chrisjordan.com/Midway/1/",
+      "source_type": "artist_studio",
+      "accessed_at": "2026-11-03"
+    },
+    {
+      "id": "S16",
+      "title": "This cosmic cave is an Instagram trap made from 18,000 used plastic cups",
+      "publisher": "Von Wong Blog",
+      "url": "https://blog.vonwong.com/plastikophobia/",
+      "source_type": "artist_account",
+      "accessed_at": "2026-11-03"
+    },
+    {
+      "id": "S17",
+      "title": "Terms of Use",
+      "publisher": "Von Wong Blog",
+      "url": "https://blog.vonwong.com/terms-of-use/",
+      "source_type": "image_license_terms",
+      "accessed_at": "2026-11-03"
+    },
+    {
+      "id": "S18",
+      "title": "Fair Park Lagoon, Dallas, Texas",
+      "publisher": "Patricia Johanson",
+      "url": "https://patriciajohanson.com/projects/fair-park-lagoon.html",
+      "source_type": "artist_account",
+      "accessed_at": "2026-11-03"
+    },
+    {
+      "id": "S19",
+      "title": "Patricia Johanson",
+      "publisher": "Honoring the Future",
+      "url": "https://www.honoringthefuture.org/climate-smarts/artist-to-know/patricia-johanson/",
+      "source_type": "artist_statement_and_images",
+      "accessed_at": "2026-11-03"
+    },
+    {
+      "id": "S20",
+      "title": "中央领导关注垃圾围城照片 批示北京垃圾场整治",
+      "publisher": "中国摄影家协会网",
+      "url": "https://www.cpanet.org.cn/detail_news_78837.html",
+      "source_type": "professional_association_republication",
+      "accessed_at": "2026-11-03"
+    },
+    {
+      "id": "S21",
+      "title": "Beijing Besieged by Waste",
+      "publisher": "Icarus Films / dGenerate Films",
+      "url": "https://icarusfilms.com/df-bsieg",
+      "source_type": "film_distributor",
+      "accessed_at": "2026-11-03"
+    },
+    {
+      "id": "S22",
+      "title": "Agnes Denes",
+      "publisher": "Agnes Denes Studio",
+      "url": "https://www.agnesdenesstudio.com/index.html",
+      "source_type": "artist_studio",
+      "accessed_at": "2026-11-03"
+    }
+  ]
+}

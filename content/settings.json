@@ -1,0 +1,77 @@
+{
+  "name": "The Nature Artists",
+  "defaultLanguage": "en",
+  "updated": "2026-11-03",
+  "repositoryUrl": "https://github.com/Trigonotis/the-nature-artists",
+  "featuredWork": "wheatfield",
+  "topics": [
+    {
+      "id": "land",
+      "en": "Land & food",
+      "zh": "土地与粮食",
+      "works": [
+        "wheatfield"
+      ]
+    },
+    {
+      "id": "restoration",
+      "en": "Ecological repair",
+      "zh": "生态修复",
+      "works": [
+        "tree-mountain",
+        "7000-oaks",
+        "revival-field",
+        "fair-park-lagoon"
+      ]
+    },
+    {
+      "id": "climate",
+      "en": "Climate",
+      "zh": "气候变化",
+      "works": [
+        "ice-watch",
+        "ghost-forest"
+      ]
+    },
+    {
+      "id": "biodiversity",
+      "en": "More-than-human",
+      "zh": "非人类生命",
+      "works": [
+        "what-is-missing"
+      ]
+    },
+    {
+      "id": "materials",
+      "en": "Waste & consumption",
+      "zh": "废弃物与消费",
+      "works": [
+        "midway",
+        "plastikophobia",
+        "beijing-besieged"
+      ]
+    },
+    {
+      "id": "care",
+      "en": "Care & community",
+      "zh": "照护与社群",
+      "works": [
+        "touch-sanitation"
+      ]
+    }
+  ],
+  "order": [
+    "wheatfield",
+    "ghost-forest",
+    "plastikophobia",
+    "revival-field",
+    "ice-watch",
+    "fair-park-lagoon",
+    "tree-mountain",
+    "7000-oaks",
+    "what-is-missing",
+    "touch-sanitation",
+    "beijing-besieged",
+    "midway"
+  ]
+}

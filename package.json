@@ -1,0 +1,14 @@
+{
+  "name": "the-nature-artists",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:public": "node scripts/build.mjs --public",
+    "build:test-site": "node scripts/build.mjs --public --reference-preview",
+    "dev": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
